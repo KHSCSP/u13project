@@ -1,5 +1,4 @@
-import json
-from pip._vendor import requests
+import json, requests
 
 # what type of data does this return?
 # how many items?

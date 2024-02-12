@@ -1,5 +1,3 @@
-# this must be copied into a python3 trinket
-
 import setup
 
 # ----------- activities -----------

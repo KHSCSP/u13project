@@ -53,7 +53,7 @@ print("\nwith link")
 print("\n--- part 2, memes ---")
 # memes = setup.get_memes()
 # print("all memes\n", memes)
-# ^^^ uncomment those two lines ^^^
+# ^^^ when ready, uncomment those two lines ^^^
 
 # explore the type of data, how many items in your data, the first item in the data, and the type of data for the first item
 
@@ -81,7 +81,12 @@ print("\nspecific memes...")
 
 
 
-# optional challenge
+# ---- optional challenge ----
 # display the image for one of your memes 
-# FYI, I was not successful but it *should* be possible
+# from PIL import Image
+
+# addr = "TODO use one of your urls"
+
+# img = Image.open(requests.get(addr, stream = True).raw)
+# img.show()
 

@@ -1,5 +1,9 @@
 import setup
 
+# note:
+# the activities are random
+# you will get different results each time you run
+
 # ----------- activities -----------
 print("\n--- part 1, (random) activities ---")
 activities = setup.get_activities(10)

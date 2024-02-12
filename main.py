@@ -74,7 +74,9 @@ print("\nlarge memes...")
 
 
 print("\nspecific memes...")
-# write a function that receives the list of memes, a string (such as 'cat') and returns a list with that string in the name
+# write a function that receives the list of memes, 
+# and a string (such as 'cat') and 
+# returns a list with that string in the name
 # the list should be a tuple
 # (name, link)
 # or a dictionary

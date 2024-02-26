@@ -91,8 +91,8 @@ print("\nspecific memes...")
 # display the image for one of your memes 
 # from PIL import Image
 
-# addr = "TODO use one of your urls"
+# addr = "TODO use one of your urls from your dictionary"
 
-# img = Image.open(requests.get(addr, stream = True).raw)
+# img = Image.open(requests.get(addr, stream=True).raw)
 # img.show()
 

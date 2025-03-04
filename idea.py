@@ -1,3 +1,7 @@
+# this is NOT the assignment
+# this is an idea of a 'challenge' *after* you complete the assignment
+
+
 options = '''
 \nHere are your options:
 (act) to show all activities

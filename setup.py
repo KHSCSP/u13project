@@ -5,7 +5,6 @@ import json, requests
 # what type of data is each item?
 def get_activities(num):
     data = []
-    # url = 'http://bored.api.com/api/activity' # depricated
     url = 'https://bored.api.lewagon.com/api/activity'
     for i in range(num):
         data.append(requests.get(url).json())
